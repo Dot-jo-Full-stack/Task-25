@@ -105,8 +105,11 @@ https://jsonplaceholder.typicode.com/posts
 ---
 
 
----
 
+📸 Screenshots
+
+
+![alt text](<Screenshot 2026-03-30 011501.png>)
 
 
 ---
