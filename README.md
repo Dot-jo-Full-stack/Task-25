@@ -116,7 +116,7 @@ https://jsonplaceholder.typicode.com/posts
 The project is deployed on **Vercel**.
 
 🔗 Live Demo:
-👉 (Add your deployed link here)
+👉 (https://bolg-app-omega.vercel.app/)
 
 ---
 
